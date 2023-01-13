@@ -11,4 +11,5 @@ export const fetchApi = async (url) => {
 	});
 
 	return data
+	console.log(data)
   }
